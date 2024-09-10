@@ -1,0 +1,41 @@
+body {
+    box-sizing: border-box;
+    background-color: #f0fff0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: 	#ff6347;
+    font-size: 25px;
+}
+
+table {
+    border: 1px solid #ff6347;
+    width: 650px;
+    margin: 0 auto;
+}
+
+tbody {
+    background-color: #faebd7;
+}
+
+thead {
+    background-color: #fc9e8d;
+}
+
+td {
+    border-top: 1px solid #ff6347;
+}
+
+.code {
+    background-color: #fad12e;
+    font-family: monospace;
+    display: inline-block;
+    width: 55px;
+}
+
