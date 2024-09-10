@@ -1,0 +1,1 @@
+In this project, I created a cheat sheet table reference! Although there are great places to learn HTML and CSS like I wanted to create this reference table anyway so that I can help those who need a reference on HTML tables.
